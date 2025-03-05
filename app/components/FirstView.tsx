@@ -31,7 +31,7 @@ export default function FirstView() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="bg-primary hover:bg-primary/90 text-white px-8 rounded-full">
-                商品を見る
+                Lany
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
               <Button
@@ -39,7 +39,7 @@ export default function FirstView() {
                 variant="outline"
                 className="border-primary text-primary hover:bg-primary hover:text-white rounded-full"
               >
-                詳しく知る
+               Alonica
               </Button>
             </div>
 
@@ -76,10 +76,10 @@ export default function FirstView() {
 
             {/* Product badges */}
             <div className="absolute top-8 right-8 bg-white/90 backdrop-blur-sm rounded-full px-4 py-2 shadow-lg">
-              <span className="text-primary font-medium">特許取得製法</span>
+              <span className="text-primary font-medium">Ayanokoji</span>
             </div>
             <div className="absolute bottom-8 left-8 bg-white/90 backdrop-blur-sm rounded-full px-4 py-2 shadow-lg">
-              <span className="text-primary font-medium">無添加・砂糖不使用</span>
+              <span className="text-primary font-medium">Kiyotaka</span>
             </div>
           </div>
         </div>
