@@ -25,7 +25,7 @@ export default function FirstView() {
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed max-w-xl">
              Dont have to?
               <span className="block mt-2">
-                100%オーガニック原料から生まれた Fermy が、 あなたの健康的な毎日をサポートします。
+              愛するのが難しいのはいつですか?
               </span>
             </p>
 
@@ -62,7 +62,7 @@ export default function FirstView() {
           <div className="relative">
             <div className="relative aspect-square max-w-md mx-auto">
               <Image
-                src="/yano.jpg"
+                src="/love.jpg"
                 alt="Fermy Bottle"
                 fill
                 className="object-contain transform hover:scale-105 transition-transform duration-500"
