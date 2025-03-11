@@ -1,3 +1,5 @@
+"use client"
+
 import { Star } from "lucide-react";
 import Image from "next/image";
 
@@ -38,7 +40,28 @@ export default function Testimonials() {
 
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    {/* {[
+                        {
+                            comment: "",
+                            name: "",
+                            role: "",
+                            period: "",
+                        },
 
+                        {
+                            comment: "",
+                            name: "",
+                            role: "",
+                            period: "",
+                        },
+
+                        {
+                            comment: "",
+                            name: "",
+                            role: "",
+                            period: "",
+                        },
+                    ]} */}
                 </div>
             </div>
         </section>

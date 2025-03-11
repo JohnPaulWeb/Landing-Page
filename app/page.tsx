@@ -5,6 +5,7 @@ import BrandStory from "./components/BrandStory";
 import Features from "./components/Features";
 import HowToUse from "./components/HowToUse";
 import Testimonials from "./components/Testimonials";
+import Far from "./components/Far";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Features />
       <HowToUse />
       <Testimonials />
+      <Far />
     </main>
   );
 }
