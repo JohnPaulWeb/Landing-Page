@@ -6,6 +6,7 @@ import Features from "./components/Features";
 import HowToUse from "./components/HowToUse";
 import Testimonials from "./components/Testimonials";
 import Far from "./components/Far";
+import Cta from "./components/Cta";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <HowToUse />
       <Testimonials />
       <Far />
+      <Cta />
     </main>
   );
 }

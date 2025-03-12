@@ -17,7 +17,7 @@ export default function Testimonials() {
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
                     <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
-                    <Image src="/love3.jpg" alt="Ayanokoji Kiyotaka" fill className="object-cover" />
+                    <Image src="/kojic.jpg" alt="Ayanokoji Kiyotaka" fill className="object-cover" />
                     </div>
 
                     <div className="space-y-8">

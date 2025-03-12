@@ -5,17 +5,17 @@ const usages = [
     {
         title: "How To Love Again?",
         description: "Ikaw at Ako",
-        image: "/love4.jpg",
+        image: "/kojic.jpg",
     },
     {
         title: "How To Love Again? ",
         description: "Ikaw at Ako",
-        image: "/love2.jpg",
+        image: "/kojic.jpg",
     },
     {
         title: "How To Love Again?",
         description: "Ikaw at Ako",
-        image: "/love3.jpg",
+        image: "/kojic.jpg",
     },
 ]
 

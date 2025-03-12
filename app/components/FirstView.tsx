@@ -62,7 +62,7 @@ export default function FirstView() {
           <div className="relative">
             <div className="relative aspect-square max-w-md mx-auto">
               <Image
-                src="/love.jpg"
+                src="/yano.jpg"
                 alt="Fermy Bottle"
                 fill
                 className="object-contain transform hover:scale-105 transition-transform duration-500"
