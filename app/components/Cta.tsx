@@ -81,7 +81,17 @@ export default function Cta() {
                     </div>
 
                     <div className="mt-12 text-center">
-                        <h3>Ayanokoji Kiyotaka</h3>
+                        <h3 className="text-xl font-bold text-gray-900 mb-4">Ayanokoji Kiyotaka</h3>
+                        <p className="text-gray-600 mb-6">
+                            Ayanokoji Kiyotaka he sits at the rear left corner of the class seat next to Suzune Horikita.
+                            <br />
+
+                           Ayanokoji Kiyotaka he sits at the rear left corner of the class seat next to Suzune Horikita.
+                        </p>
+
+                        <Button variant="outline" className="border-gray-800 text-green-800 hover:bg-green-800 hover:text-white">
+                            Ayanokoji
+                        </Button>
                     </div>
                 </div>
             </div>

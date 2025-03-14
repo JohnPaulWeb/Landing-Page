@@ -7,6 +7,7 @@ import HowToUse from "./components/HowToUse";
 import Testimonials from "./components/Testimonials";
 import Far from "./components/Far";
 import Cta from "./components/Cta";
+import SocialMedia from "./components/SocialMedia";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Testimonials />
       <Far />
       <Cta />
+      <SocialMedia />
     </main>
   );
 }
